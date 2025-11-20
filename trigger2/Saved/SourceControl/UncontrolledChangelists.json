@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/wavepoint.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BO/5P9JK1TQN4DETXGBGNPAEY.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YS/DZ0E17866PD3BQJ87FSNVG.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QU/XGIYNYF609EWTC8XKAJG5U.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SV/3WBR1KHI6F287QMMH722HE.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4S/PHA25Y4MFYRQQ2RK0U6S46.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NA/SMY6OVGCZTMASVWPIN5RTV.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/O0/372NP3UV88AGV1XGYCG1VK.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/T1/VK4P9A50EAJC6M245QAOHX.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/H4/9TO717YSYXDTWLSRQQ9M6I.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/LY/8FXGKA6DEDFM42VDV0G5C6.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/MG/KEBLR4MWRLDUFYUI56DZJO.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/9Q/JRKGC883TPC8FNONMJ2RGZ.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/U7/5L9PPBU5RZ8HM7RB9KP8H1.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/ZS/SV987OZTTI1Q5WVA1WJ587.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/X1/O5GW49EZLSYDEWPUYVGFEW.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/EE/J83U6JANY5OVTNOV243BX0.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/N5/9HAM8SF70I2D6D062KB2V6.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/W8/04IGYBVKVWY1V7Y5SXMNKM.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TC/I3Q6MA35KBP2NYA942BPQU.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/I6/023ZSD6AA6BQZZ7P3YWSLS.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/0O/TEB2SDER9S41AZLXDCWASN.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/G5/DDMSHOA1JSKNL5PCBUSTFZ.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/X1/8NUDQO1V6E6WUWQYEZWPT0.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/J1/74HP3DZ9S14BP289MWIBQ8.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/enemy123.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/waypoints.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/TriggerBox_Blueprint.uasset"
+			]
+		}
+	]
+}
