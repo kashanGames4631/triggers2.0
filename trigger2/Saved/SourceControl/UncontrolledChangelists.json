@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/wavepoint.uasset",
 				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BO/5P9JK1TQN4DETXGBGNPAEY.uasset",
 				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
 				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
@@ -37,7 +36,9 @@
 				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/enemy123.uasset",
 				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/waypoints.uasset",
-				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/TriggerBox_Blueprint.uasset"
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/TriggerBox_Blueprint.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/StarterContent/WBP_Welcome.uasset",
+				"C:/Users/2504631/Documents/GitHub/triggers2.0/trigger2/Content/wavepoint.uasset"
 			]
 		}
 	]
